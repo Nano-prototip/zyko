@@ -1,3 +1,5 @@
-.рус
- *.pyc
- /etc
+# ignore рус files
+*.рус
+
+# ignore catalog cache
+cache/
